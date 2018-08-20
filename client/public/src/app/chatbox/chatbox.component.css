@@ -1,0 +1,5 @@
+#chatbox {
+    height: 590px;
+    overflow: scroll;
+    background: rgba(254, 254, 254, 0.8);
+}
